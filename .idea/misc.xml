@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BSMF/Desktop/CIS 4280/Ch. 7 - My Contact List/app/src/main/res/layout/activity_contact_list.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/BSMF/Desktop/CIS 4280/Ch. 7 - My Contact List/app/src/main/res/layout/activity_contact_map.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/BSMF/Desktop/CIS 4280/Ch. 7 - My Contact List/app/src/main/res/layout/activity_contact_settings.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/BSMF/Desktop/CIS 4280/Ch. 7 - My Contact List/app/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/BSMF/Desktop/CIS 4280/Ch. 7 - My Contact List/app/src/main/res/layout/list_item.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/BSMF/Desktop/CIS 4280/Ch. 7 - My Contact List/app/src/main/res/layout/list_view.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/BSMF/Desktop/CIS 4280/Ch. 7 - My Contact List/app/src/main/res/layout/select_date.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/BSMF/Desktop/CIS 4280/Ch. 7 - My Contact List/app/src/main/res/layout/simple_item_view.xml" value="0.17481884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
